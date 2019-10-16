@@ -29,8 +29,8 @@ Leerdoelen
 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 
-*ik wil beter bekend worden met het maken van een dialogue system en het leren om text files gelezen te laten worden in unity 
-
+*ik wil beter bekend worden met het maken van een dialogue system
+*het leren om text files gelezen te laten worden in unity 
 
 
 Planning
@@ -59,5 +59,6 @@ woensdag * done
 
 Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
-
+https://www.youtube.com/watch?v=Y8XCoEt7zTU 
+klasgenoot: Burhan
 
