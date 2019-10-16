@@ -59,6 +59,8 @@ woensdag * done
 
 Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
+
 https://www.youtube.com/watch?v=Y8XCoEt7zTU 
+
 klasgenoot: Burhan
 
